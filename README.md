@@ -39,7 +39,7 @@ Follow these steps to get your fishing bot up and running with CUDA acceleration
 2. Install required Python packages:
 
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt # use the auto setup 
 ```
 
 ## Configuration
