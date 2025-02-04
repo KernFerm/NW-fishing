@@ -9,6 +9,13 @@ Welcome to the New World Fishing Bot repository! This bot automates fishing in t
 - **Real-time Object Detection**: Powered by YOLO and ONNX models for efficient and accurate detection of fishing spots and actions within the game.
 - **User-friendly Configuration**: Easy setup and customization through a simple configuration file.
 
+## Disclaimer
+
+This project, including all associated source code and files, is provided for **educational purposes only** and is not intended for malicious use or to promote cheating in any form. This tool is designed to assist individuals with physical disabilities who may benefit from automation in gaming environments. We strongly discourage the use of this software for any activities that violate terms of service or fair play agreements of any game or software.
+
+By using this software, you agree to use it responsibly and ethically, adhering to the applicable laws and terms of service agreements. The developers and contributors of this project are not responsible for any misuse of this tool or any damages that arise from its use. Please use this tool in a manner that respects the rights and experience of all players.
+
+
 ## 🚀 Quick Start
 
 Follow these steps to get your fishing bot up and running with CUDA acceleration:
