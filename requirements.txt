@@ -1,0 +1,43 @@
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
+
+torch
+torchvision
+torchaudio
+torch-directml
+numpy
+opencv-python
+comtypes
+pandas
+cupy-cuda11x  # Adjusted from cupy-cuda11x to match the CUDA 11.8 versioning
+bettercam
+psutil
+colorama
+ultralytics  # Ensure this refers to a pip-installable package or adjust to ultralytics/yolov5 if using directly from GitHub
+PyAutoGUI
+PyGetWindow
+pywin32
+pyyaml
+tqdm
+matplotlib
+seaborn
+requests
+ipython
+dxcam
+onnx
+onnxruntime-gpu
+onnx-simplifier
+onnxruntime
+onnxruntime-directml
+cupy
+
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
+# USE THE NEW-WORLD-FISHING-BOT-AUTO-SETUP.BAT 
+# DO NOT USE THE REQUIREMENTS.TXT FILE
