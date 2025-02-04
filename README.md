@@ -235,5 +235,5 @@ This project is licensed under the `MIT License`.
 - [PyTorch](https://pytorch.org/)
 - [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime)
-- [RootkitOrg](https://github.com/rootkitorg) / i made the repo better hopefully. lol
+- [RootkitOrg](https://github.com/rootkit-org) / i made the repo better hopefully. lol
 
