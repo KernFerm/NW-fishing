@@ -85,12 +85,6 @@ cuda_enabled = True  # Set to True if CUDA is available and desired
 
 ## DO `EVERY STEP AND FOLLOW EVERY STEP` OF THE NVIDIA INSTALLATION GUIDE OR IT WON'T WORK PROPERLY
 
-- **FOR `AMD USERS` MAKE SURE YOU `FOLLOW` THE GUIDE FOR `AMD GPUS`**
-
-## For `AMD GPU SUPPORT` [click here](https://github.com/FNBUBBLES420-ORG/Assistive-AimGuide/blob/main/main_amd_scripts/dist/readme.md)
-
-</div>
-
 ----
 ### 1. **Download the NVIDIA CUDA Toolkit 11.8**
 
