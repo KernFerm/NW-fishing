@@ -1,3 +1,10 @@
+# DISCLAIMER:
+# This code is provided for educational purposes only and is not intended for use in malicious activities or to promote cheating.
+# This tool is designed to assist individuals with physical disabilities, aiming to enhance accessibility in gaming.
+# The authors do not endorse nor condone the use of this software for violating the terms of service of any game.
+# Users are advised to ensure that their use of this software complies with the game's terms of service and applicable laws.
+# The developers assume no liability for any misuse of this software or any violations of terms of service agreements.
+
 import pyautogui
 import pygetwindow
 import time
