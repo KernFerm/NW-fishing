@@ -52,7 +52,7 @@ Ensure you have Visual Studio 2022 and CUDA Toolkit 11.8 installed with the appr
 python -m pip install torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 --index-url https://download.pytorch.org/whl/cu118
 python -m pip install "https://github.com/cupy/cupy/releases/download/v13.3.0/cupy_cuda11x-13.3.0-cp311-cp311-win_amd64.whl"
 python -m pip install "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\python\tensorrt-8.6.1-cp311-none-win_amd64.whl"
-python -m pip install nvidia-ml-py3 nvidia-pyindex tensorrt torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 numpy opencv-python comtypes pandas cupy-cuda118 bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx==1.17.0 onnxruntime-gpu==1.20.1 onnx-simplifier onnxruntime==1.20.1
+python -m pip install nvidia-ml-py3 nvidia-pyindex tensorrt torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 numpy opencv-python comtypes pandas cupy-cuda11x bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx==1.17.0 onnxruntime-gpu==1.20.1 onnx-simplifier onnxruntime==1.20.1
 ```
 
 ## 🔸 AMD Users 🎮
