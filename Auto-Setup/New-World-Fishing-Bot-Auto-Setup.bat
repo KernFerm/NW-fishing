@@ -142,14 +142,14 @@ echo Installing required dependencies...
 if "%gpu_type%"=="NVIDIA" (
     echo Installing NVIDIA CUDA-enabled packages...
     python -m pip install torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 --index-url https://download.pytorch.org/whl/cu118
-    python -m pip install "https://github.com/cupy/cupy/releases/download/v13.3.0/cupy_cuda11x-13.3.0-cp311-cp311-win_amd64.whl"
+    python -m pip install "https://github.com/cupy/cupy/releases/download/v13.4.0/cupy_cuda11x-13.4.0-cp311-cp311-win_amd64.whl"
 
     :: Install TensorRT for NVIDIA
     echo Installing TensorRT for Python...
     python -m pip install "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.8\python\tensorrt-8.6.1-cp311-none-win_amd64.whl"
 
     :: Install NVIDIA essential libraries
-    python -m pip install nvidia-ml-py3 nvidia-pyindex tensorrt torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 numpy opencv-python comtypes pandas cupy-cuda11x bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx==1.17.0 onnxruntime-gpu==1.20.1 onnx-simplifier onnxruntime==1.20.1
+    python -m pip install nvidia-ml-py3 nvidia-pyindex tensorrt torch==2.6.0+cu118 torchvision==0.21.0+cu118 torchaudio==2.6.0+cu118 numpy opencv-python comtypes pandas cupy-cuda11x bettercam psutil colorama ultralytics PyAutoGUI PyGetWindow pywin32 pyyaml tqdm matplotlib seaborn requests ipython dxcam onnx==1.17.0 onnxruntime-gpu==1.21.0 onnx-simplifier onnxruntime==1.21.0
 )
 
 if "%gpu_type%"=="AMD" (
