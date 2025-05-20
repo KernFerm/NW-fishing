@@ -225,7 +225,7 @@ If `config.visuals` is set to True, you can see real-time detection and actions 
 This project is licensed under the `MIT License`.
 
 ## Issues ??
-- **[fnbubbles420 org discord](https://discord.fnbubbles420.org/invite)**
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
 - Ping `Bubbles`
 
 ## 💖 Acknowledgements
